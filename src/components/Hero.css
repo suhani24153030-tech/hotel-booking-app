@@ -1,0 +1,26 @@
+.hero {
+  height: 85vh;
+  background-color: #2563eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-content {
+  text-align: center;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 50px;
+}
+
+.search-box {
+  margin-top: 20px;
+}
+
+.search-box input,
+.search-box button {
+  padding: 10px;
+  margin: 5px;
+}
